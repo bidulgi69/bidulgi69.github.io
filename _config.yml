@@ -140,3 +140,18 @@ compress_html:
   profile: false
   # ignore:
   #   envs: all
+
+# Enable comments
+comments:
+  giscus:
+    repo: bidulgi69/bidulgi69.github.io
+    repositoryId: R_kgDOM8Jslw
+    category: Q&A
+    categoryId: DIC_kwDOM8Jsl84CjHNY
+    mapping: title
+    reactionsEnabled: true
+    emitMetadata: true
+    inputPosition: bottom
+    theme: preferred_color_scheme # or your preferred theme
+    lang: ko
+    loading: lazy
