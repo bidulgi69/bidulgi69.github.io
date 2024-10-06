@@ -7,4 +7,7 @@ url: https://bidulgi69.github.io
 color_scheme: dark
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Github: https://github.com/bidulgi69
+
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/images/logo.jpg"
