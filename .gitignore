@@ -15,3 +15,5 @@ _site/
 vendor/
 .idea
 .DS_Store
+
+Gemfile.lock
